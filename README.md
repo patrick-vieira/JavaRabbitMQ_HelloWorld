@@ -1,3 +1,3 @@
 # JavaRabbitMQ_HelloWorld
 
-Some training
+Some training.
